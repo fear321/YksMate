@@ -2,7 +2,7 @@
   "name": "YKS Mate",
   "short_name": "YKS Mate",
   "description": "YKS sınavı için deneme takip ve analiz uygulaması",
-  "start_url": "/src/home.html",
+  "start_url": "https://fear321.github.io/YksMate/",
   "display": "standalone",
   "background_color": "#0d0b14",
   "theme_color": "#3a6df0",
